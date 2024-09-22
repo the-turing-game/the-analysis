@@ -18,5 +18,5 @@ It strains my credulity that Mr. Turing used this obvious 'sleight of hand' in f
 (in plain sight) unintentionally; after all, he is making a point here, but we don't need to uphold
 this asymmetry of initial knowledge in precise definition of our broad category of games.
 
-The deceptor is lying about the fact that _he_ belongs to a certain class. It is easy to notice
+The deceptor is lying about the fact that _he_ belongs to a certain _known_ class. It is easy to notice
 that...
