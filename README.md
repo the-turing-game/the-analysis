@@ -2,7 +2,7 @@
 Here I will analyze the underlying ideas of the broad class of games that
 the 'parlor game' described by Mr. Turing as well as the same game with a
 modification that he proposed belong to.
-## Cooperation and Deception
+## Cooperation vs. Deception
 First of all, it is hard not to notice that the real goal of the game
 compunctiously called by Mr. Turing 'the imitation game' is _**deception**_ and the possible strategies of its discovery.
 
@@ -12,6 +12,9 @@ detailed analysis of the game as a whole.
 
 This point largely invalidates the use of the 'Inverse Turing Game' ('recognition' of a human by a machine
 without a human as a reference point) routinely called by engineers 'The Turing Test'.
+
+Moreover, that should be the key to the best interpretation of the game; the game is played
+between a Deceptor and a Cooperator, the Interrogator is just a (probabilistic) arbiter.
 ## What is it that is being lied about?
 The original 'parlor game' is played by participants of two sufficiently well defined classes,
 that have characterisics and behaviours common to the their class ('man' or 'woman'). These general 
