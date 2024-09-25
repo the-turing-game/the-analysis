@@ -13,8 +13,8 @@ detailed analysis of the game as a whole.
 This point largely invalidates the use of the 'Inverse Turing Game' ('recognition' of a human by a machine
 without a human as a reference point) routinely called by engineers 'The Turing Test'.
 
-Moreover, that should be the key to the best interpretation of the game; the game is played
-between a Deceptor and a Cooperator, the Interrogator is just a (probabilistic) arbiter.
+Moreover, that should be the key to the best interpretation of the game as a game played
+between a Deceptor and a Cooperator, the Interrogator being a 'guessing' arbiter (sometimes called 'a lottery').
 ## What is it that is being lied about?
 The original 'parlor game' is played by participants of two sufficiently well defined classes,
 that have characterisics and behaviours common to the their class ('man' or 'woman'). These general 
