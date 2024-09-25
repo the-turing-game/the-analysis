@@ -12,15 +12,16 @@ detailed analysis of the game as a whole.
 ## What is it that is being lied about?
 In the original 'parlor game' is played by participants of two sufficiently well defined classes,
 that have characterisics and behaviours common to the their class ('man' or 'woman'). These general 
-attributes of a class (of 'men' and 'women') are known to interrogator in the original game but in the modification
-of the game invented by Mr. Turing the attributes of a class 'machine' are _not_ known neighter to the
+attributes of a class (of 'men' and 'women') are known to interrogator in the original game.
+
+The deceptor is lying about the fact that _he_does_not_belong_ to a certain _known_ class by means of
+pretending to belong to another _known_ class. It is easy to notice that lying about the fact of
+belonging to an _unknown_ class would be quite a bit simpler, because the interrogator of a 'man' has 
+not only the signs of deception in his 'womanly' answers but also the signs of his true 'manliness' in the
+answers; he would not have the positive signs of another class if does not know it.
+
+In the modification of the game invented by Mr. Turing the attributes of a class 'machine' are _not_ known neighter to the
 interrogator nor to his cooperator possessing the complete information about the state of the game.
 It strains my credulity that Mr. Turing used this obvious 'sleight of hand' in favor of a 'machine' and concealed it
 (in plain sight) unintentionally; after all, he is making a point here, but we don't need to uphold
 this asymmetry of initial knowledge in precise definition of our broad category of games.
-
-The deceptor is lying about the fact that _he_does_not_belong_ to a certain _known_ class by means of
-pretending to belong to another _known_ class. It is easy to notice that lying about the fact of
-belonging to an _unknown_ class is quite a bit simpler, because the interrogator of a 'man' has 
-not only the signs of deception in his 'womanly' answers but also the signs of his true 'manliness' in the
-answers.
