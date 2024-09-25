@@ -7,8 +7,9 @@ First of all, it is hard not to notice that the real goal of the game
 compunctiously called by Mr. Turing 'the imitation game' is _**deception**_ and the possible strategies of its discovery.
 
 The presence of a cooperating player that possesses free will and complete information
-about the current state of the game is an apparent reference point for the analysis of the game as a whole.
-## What is it that is being lied about
+about the current state of the game is an apparent reference point for an interrogator and should be used as such in any 
+detailed analysis of the game as a whole.
+## What is it that is being lied about?
 In the original 'parlor game' is played by participants of two sufficiently well defined classes,
 that have characterisics and behaviours common to the their class ('man' or 'woman'). These general 
 attributes of a class (of 'men' and 'women') are known to interrogator in the original game but in the modification
@@ -18,5 +19,8 @@ It strains my credulity that Mr. Turing used this obvious 'sleight of hand' in f
 (in plain sight) unintentionally; after all, he is making a point here, but we don't need to uphold
 this asymmetry of initial knowledge in precise definition of our broad category of games.
 
-The deceptor is lying about the fact that _he_ belongs to a certain _known_ class. It is easy to notice
-that...
+The deceptor is lying about the fact that _he_does_not_belong_ to a certain _known_ class by means of
+pretending to belong to another _known_ class. It is easy to notice that lying about the fact of
+belonging to an _unknown_ class is quite a bit simpler, because the interrogator of a 'man' has 
+not only the signs of deception in his 'womanly' answers but also the signs of his true 'manliness' in the
+answers.
