@@ -7,7 +7,7 @@ First of all, it is hard not to notice that the real goal of the game
 compunctiously called by Mr. Turing 'the imitation game' is _**deception**_ and the possible strategies of its discovery through interrogation.
 
 The presence of a cooperating player that possesses free will and complete information
-about the current state of the game is an apparent reference point for an interrogator and should be used as such in any 
+about the current state of the game is an apparent reference point for an interrogator and should not be omitted in any 
 detailed analysis of the game as a whole. 
 
 This point largely invalidates the use of the 'Inverse Turing Game' ('recognition' of a human by a machine
