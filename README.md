@@ -31,6 +31,6 @@ interrogator nor to his cooperator possessing the complete information about the
 It strains my credulity that Mr. Turing used this obvious 'sleight of hand' in favor of a 'machine' and concealed it
 (in plain sight) unintentionally; after all, he is making a point here, but we don't need to uphold
 this asymmetry of initial knowledge in precise definition of our broad category of games.
-## Reality and the idea or what is real (in the mind of a person).
+## Reality and the idea of what is real (in the mind of a person).
 And, finally, we come to the main point of the problem, what is real and what is not in the 'behavior'
  of man-made machines?
