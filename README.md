@@ -17,7 +17,7 @@ Moreover, that should be the key to the best interpretation of the game as a gam
 between a Deceptor and a Cooperator, the Interrogator being a 'causally guessing' arbiter.
 ## What is it that is being lied about?
 The original 'parlor game' is played by participants of two sufficiently well defined classes,
-that have characterisics and behaviours common to the their class ('man' or 'woman'). These general 
+that have characterisics and behaviours common to their class ('man' or 'woman'). These general 
 attributes of a class (of 'men' and 'women') are known to interrogator.
 
 The deceptor is lying about the fact that _he_does_not_belong_ to a certain _known_ class by means of
