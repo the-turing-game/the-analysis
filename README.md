@@ -1,3 +1,16 @@
+# Introduction.
+LET ME BE CLEAR:\
+Because "the Turing game" has:  1.) an 'object' - information; and 2.) a 'subject' - the person
+who perceives this information, it has not one, but <b><i>two</i></b> winning strategies, namely:
+
+- **imitation:** in which machine tries to imitate the possible reactions of a human by
+         producing information that a human would;
+
+- **manipulation:** in which machine tries to manipulate a human ('subject') emotionally or logically so that (s)he would perceive __*arbitrary*__ (read - "any") responses produced by a machine as "human".
+
+And, as we know now, it is not 'unlikely' but 'highly likely' that Language Models created by
+'engineers' resort to the second one.
+
 # The analysis of the game.
 Here I will analyze the underlying ideas of the broad class of games that
 the 'parlor game' described by Mr. Turing as well as the same game with a
