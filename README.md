@@ -6,7 +6,7 @@ Because "the Turing game" has two components:  1.) an 'object' - information tha
 
 - **manipulation:** in which machine tries to manipulate a human ('subject') emotionally or logically so that (s)he would perceive __*almost arbitrary*__ responses produced by a machine as "human".
 
-And, as we know now, it is not 'unlikely' but 'highly likely' that Language Models resort to the second one. I will analyse the sub-strategies of the strategy of manipulation later, but first I would like to characterize the game as a whole.
+And, as we know now, it is not 'unlikely' but 'highly likely' that Language Models resort to the second one. I will analyze the sub-strategies of the strategy of manipulation later, but first I would like to characterize the game as a whole.
 # The definition of the problem
 The source of common misunderstanding of the game is in the ill definition of the problem of communications between human beings as opposed to the communication of machines. A message in human communications has not one, but two parameters: its meaning and the degree of belief assigned to it by the recipient after the multi-step process of understanding. The first parameter can be controlled directly by the content of the message, the second variable can only be changed by the emitter of the message indirectly, by manipulating the act of comprehension through the meaning of the message for a particular recipient. The fact that this second parameter is controlled indirectly and in this way is a 'dependent variable' does not mean that it does not exist, moreover, because of the undefinable variety of the meanings that arbitrary person can derive from the same message this variable proper is largely free of constraints.
 # The analysis of the game.
